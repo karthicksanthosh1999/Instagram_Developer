@@ -15,3 +15,5 @@ Author : karthick
 6. add the video call feature
 
 7. add the autio call feature
+
+8. Add the states so that user can play train games.
