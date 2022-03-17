@@ -11,3 +11,7 @@ Author : karthick
 4. Attachments (Images, Audio, Video) code 
 
 5. hide the last seen
+
+6. add the video call feature
+
+7. add the autio call feature
